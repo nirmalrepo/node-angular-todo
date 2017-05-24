@@ -29,3 +29,7 @@ Each branch represents a certain tutorial.
 Happy Todo-ing!
 
 ![Todo-aholic](http://i.imgur.com/ikyqgrn.png)
+
+# node-angular-todo
+A Single Page Todo App with Node and Angular
+
